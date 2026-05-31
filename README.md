@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28439265/README.md)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gustavo!+%F0%9F%91%8B;Computer+Engineering+Student;Interested+in+Data+%26+Software+Dev)
 
