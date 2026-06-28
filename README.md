@@ -5,7 +5,7 @@
 
 ---
 
--  Computer Engineering Student — 2/10
+-  Computer Engineering Student — 3/10
 -  19 years old
 -  Interested in Data and Software Development
 
