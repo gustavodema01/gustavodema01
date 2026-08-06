@@ -33,7 +33,7 @@
 |---------|-------------|------|
 | [🔐 Hill's Cryptography](https://github.com/gustavodema01/criptografia-de-hill) | Implementation of the Hill Cipher with matrix encryption and decryption | C#, Git |
 | [🎨 Mobile Automated Painter](https://github.com/gustavodema01/Pintor-M-vel-Automatizados-TCC) | Mechatronics Capstone Project | C++, Arduino |
-| [📚 Programming-Studies](https://github.com/gustavodema01/Programming-Studies)| My studies |C#, Python |
+| [📚 Programming-Studies](https://github.com/gustavodema01/Programming-Studies)| My studies |C#, Python, SQL|
 
 ---
 
