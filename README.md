@@ -7,7 +7,7 @@
 
 -  Computer Engineering Student — 3/10
 -  19 years old
--  
+  
 ---
 
 ### 🛠️ Technologies
